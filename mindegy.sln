@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindegy", "mindegy\mindegy.csproj", "{1A8AB3C6-6749-4DEB-8D5C-235398D72C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8AB3C6-6749-4DEB-8D5C-235398D72C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8AB3C6-6749-4DEB-8D5C-235398D72C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8AB3C6-6749-4DEB-8D5C-235398D72C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8AB3C6-6749-4DEB-8D5C-235398D72C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB1F2E3-E931-49A8-99D2-0D91E54EAC00}
+	EndGlobalSection
+EndGlobal
